@@ -1,0 +1,2 @@
+# favyscollect
+GitHub Pages
